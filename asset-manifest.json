@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/btc-price-notification/static/css/main.b7a99c67.chunk.css",
+    "main.js": "/btc-price-notification/static/js/main.6118dc3e.chunk.js",
+    "main.js.map": "/btc-price-notification/static/js/main.6118dc3e.chunk.js.map",
+    "runtime-main.js": "/btc-price-notification/static/js/runtime-main.dc3960fb.js",
+    "runtime-main.js.map": "/btc-price-notification/static/js/runtime-main.dc3960fb.js.map",
+    "static/js/2.93528405.chunk.js": "/btc-price-notification/static/js/2.93528405.chunk.js",
+    "static/js/2.93528405.chunk.js.map": "/btc-price-notification/static/js/2.93528405.chunk.js.map",
+    "index.html": "/btc-price-notification/index.html",
+    "static/css/main.b7a99c67.chunk.css.map": "/btc-price-notification/static/css/main.b7a99c67.chunk.css.map",
+    "static/js/2.93528405.chunk.js.LICENSE.txt": "/btc-price-notification/static/js/2.93528405.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/btc-price-notification/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc3960fb.js",
+    "static/js/2.93528405.chunk.js",
+    "static/css/main.b7a99c67.chunk.css",
+    "static/js/main.6118dc3e.chunk.js"
+  ]
+}
